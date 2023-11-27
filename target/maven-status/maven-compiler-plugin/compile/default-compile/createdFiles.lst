@@ -1,0 +1,4 @@
+com\scadaprimacipta\mocktesting\model\Employee.class
+com\scadaprimacipta\mocktesting\MocktestingApplication.class
+com\scadaprimacipta\mocktesting\controller\EmployeeController.class
+com\scadaprimacipta\mocktesting\repository\EmployeeRepository.class
